@@ -20,6 +20,10 @@ const Menus = [
     href: '/communication',
   },
   {
+    title: 'Github Trending',
+    href: '/chat',
+  },
+  {
     title: 'ChatGPT',
     href: '/chat',
   },

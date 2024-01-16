@@ -40,3 +40,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - cleak for auth
 - daisyui for ui
+
+## modules
+
+- post
+- navigation
+- commination
+- github trending
+- chatgpt
+- tools
