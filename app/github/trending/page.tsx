@@ -29,7 +29,6 @@ export default async function Trending() {
       {
         data.data?.map(item => (
           <div key={item.id}>
-            <p>{item.title}</p>
             <p>{item.url}</p>
           </div>
         ))
