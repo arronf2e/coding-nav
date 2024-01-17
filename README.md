@@ -40,6 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - cleak for auth
 - daisyui for ui
+- github issue for public data
 
 ## modules
 
@@ -49,3 +50,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - github trending
 - chatgpt
 - tools
+- hacknews

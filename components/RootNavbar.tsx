@@ -21,7 +21,11 @@ const Menus = [
   },
   {
     title: 'Github Trending',
-    href: '/chat',
+    href: '/github/trending',
+  },
+  {
+    title: 'Hacker News',
+    href: '/github/search',
   },
   {
     title: 'ChatGPT',
